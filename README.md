@@ -8,7 +8,7 @@
 ## 🗽 Experiences
 > (주)와이오엘오 QA 인턴 <sub>(2022.06 ~ 2022.08)</sub><br>
 > 2022 오픈소스 컨트리뷰션 아카데미 멘티 <sub>(2022.07 ~ 2022.10)</sub><br>
-> 우아한테크코스 웹 프론트엔드 6기 프리코스 <sub>(2023.10 ~ 2023.11)</sub>
+> kt ds SW Engineer <sub>(2024.02 ~ ing)</sub>
 
 ## ✨ About me
 https://uchaen.notion.site/Chaeyeon-Yu-fedaf0a7ecd6472da03f36f784abc538?pvs=4
