@@ -5,10 +5,9 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 
 
-## 🗽 Experiences
-> (주)와이오엘오 QA 인턴 <sub>(2022.06 ~ 2022.08)</sub><br>
-> 2022 오픈소스 컨트리뷰션 아카데미 멘티 <sub>(2022.07 ~ 2022.10)</sub><br>
-> kt ds SW Engineer <sub>(2024.01 ~ ing)</sub>
+## 🗽 Career
+> 와이오엘오 프로덕트팀 QA인턴 <sub>(2022.06 ~ 2022.08)</sub><br>
+> ktds 소프트웨어엔지니어 <sub>(2024.01 ~ ing)</sub>
 
 ## ✨ About me
 https://uchaen.notion.site/Chaeyeon-Yu-fedaf0a7ecd6472da03f36f784abc538?pvs=4
