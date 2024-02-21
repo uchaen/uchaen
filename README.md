@@ -6,8 +6,8 @@
 
 
 ## 🗽 Career
-> 와이오엘오 프로덕트팀 QA인턴 <sub>(2022.06 ~ 2022.08)</sub><br>
-> ktds 소프트웨어엔지니어 <sub>(2024.01 ~ ing)</sub>
+> 와이오엘오 프로덕트팀 QA인턴 <sub>(2022.06 ~ 2022.12)</sub><br>
+> kt ds 솔루션개발팀 SW엔지니어 <sub>(2024.01 ~ ing)</sub>
 
 ## ✨ About me
 https://uchaen.notion.site/Chaeyeon-Yu-fedaf0a7ecd6472da03f36f784abc538?pvs=4
